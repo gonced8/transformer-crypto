@@ -1,0 +1,7 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+matplotlib
+numpy
+pandas
+pytorch-lightning==1.2.4
+torch==1.8.0+cu111
+tqdm
