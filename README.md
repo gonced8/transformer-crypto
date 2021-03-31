@@ -1,2 +1,2 @@
 # crypto-trading-bot
-Using a Transformer Decoder to predict bitcoin prices. 
+Using a Transformer Decoder to predict bitcoin prices.
