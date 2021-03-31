@@ -1,4 +1,4 @@
-# crypto-trading-bot
+# transformer-crypto
 
 Using a Transformer Decoder to predict bitcoin prices.
 
